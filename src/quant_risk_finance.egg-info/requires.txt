@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+yfinance
+
+[dev]
+pytest
+black
+ruff
+ipykernel
+jupyterlab
