@@ -1,0 +1,39 @@
+# Local datasets
+/data/
+
+# Virtual environments and local secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Python bytecode and generated package metadata
+__pycache__/
+*.py[cod]
+*.egg-info/
+/build/
+/dist/
+
+# Notebook, test, and tool caches
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipython/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+._*
+Thumbs.db
+*.swp
+*.swo
+
+# Local logs
+*.log
