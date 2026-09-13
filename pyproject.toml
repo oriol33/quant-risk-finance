@@ -10,7 +10,8 @@ dependencies = [
     "pandas",
     "scipy",
     "matplotlib",
-    "yfinance"
+    "yfinance",
+    "openpyxl"
 ]
 
 [project.optional-dependencies]
