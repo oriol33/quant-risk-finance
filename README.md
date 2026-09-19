@@ -20,3 +20,6 @@ mkdir -p data
 ```
 
 Place your datasets in `data/`; it stays local and is ignored by Git.
+
+See [the instrument master](docs/instruments.md) for metadata lookup and updates
+to `data/instruments.xlsx`.
